@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.05.16 12:35:33.512,=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.16 12:35:33.624,=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.16 14:01:36.058,=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.05.16 14:02:04.452,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.dfm=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.05.16 14:02:04.452,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.cpp=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.16 14:02:04.452,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.05.16 14:02:17.767,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.h</Transaction>
+    <Transaction>2019.05.16 14:02:17.767,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.cpp=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.cpp</Transaction>
+    <Transaction>2019.05.16 14:02:17.767,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.dfm=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Mainn.dfm</Transaction>
+    <Transaction>2019.05.16 14:02:43.600,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\VidachaKnig.dfm=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019.05.16 14:02:43.600,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\VidachaKnig.cpp=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.05.16 14:02:43.600,C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\VidachaKnig.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2019.05.16 14:09:26.545,=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.16 14:09:39.770,=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.05.16 14:47:12.283,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2019.05.16 14:47:12.283,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.cpp=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.05.16 14:47:12.283,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.dfm=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019.05.16 14:47:15.366,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\StartWindow.dfm=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.dfm</Transaction>
+    <Transaction>2019.05.16 14:47:15.366,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\StartWindow.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.h</Transaction>
+    <Transaction>2019.05.16 14:47:15.366,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\StartWindow.cpp=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\StartWindow.cpp</Transaction>
+    <Transaction>2019.05.16 14:47:16.826,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Project1PCH1.h=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.16 14:47:17.994,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Project1.cbproj=C:\Users\AKushnir\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2019.05.16 14:50:46.809,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\VidachaKnig.cpp=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.cpp</Transaction>
+    <Transaction>2019.05.16 14:50:46.809,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\VidachaKnig.dfm=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.dfm</Transaction>
+    <Transaction>2019.05.16 14:50:46.809,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\VidachaKnig.h=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.h</Transaction>
+    <Transaction>2019.05.16 14:53:05.881,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit3.cpp</Transaction>
+    <Transaction>2019.05.16 14:53:40.758,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\FirstReport.cpp=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit3.cpp</Transaction>
+    <Transaction>2019.05.16 14:53:40.758,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\FirstReport.dfm=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit3.dfm</Transaction>
+    <Transaction>2019.05.16 14:53:40.758,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\FirstReport.h=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit3.h</Transaction>
+    <Transaction>2019.05.16 15:16:18.276,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Project1.cbproj=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Project1.cbproj</Transaction>
+    <Transaction>2019.05.16 15:20:56.760,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit4.cpp</Transaction>
+    <Transaction>2019.05.16 15:21:04.523,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\ReaderReports.dfm=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit4.dfm</Transaction>
+    <Transaction>2019.05.16 15:21:04.523,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\ReaderReports.cpp=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit4.cpp</Transaction>
+    <Transaction>2019.05.16 15:21:04.523,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\ReaderReports.h=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Unit4.h</Transaction>
+    <Transaction>2019.05.16 16:26:26.346,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\shell.c</Transaction>
+    <Transaction>2019.05.16 16:26:27.061,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\sqlite3.c</Transaction>
+    <Transaction>2019.05.16 16:26:55.057,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\sqlite3.h</Transaction>
+    <Transaction>2019.05.16 16:26:55.068,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\sqlite3ext.h</Transaction>
+    <Transaction>2019.05.16 16:27:55.065,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\shell.c=</Transaction>
+    <Transaction>2019.05.16 16:31:45.737,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.db</Transaction>
+    <Transaction>2019.05.16 16:34:27.741,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite\shell.c</Transaction>
+    <Transaction>2019.05.16 16:34:52.071,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\shell.c</Transaction>
+    <Transaction>2019.05.16 16:34:52.750,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.c</Transaction>
+    <Transaction>2019.05.16 16:34:52.787,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.h</Transaction>
+    <Transaction>2019.05.16 16:34:52.801,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3ext.h</Transaction>
+    <Transaction>2019.05.16 17:50:14.504,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3ext.h=</Transaction>
+    <Transaction>2019.05.16 17:50:15.822,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.h=</Transaction>
+    <Transaction>2019.05.16 17:50:16.680,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.c=</Transaction>
+    <Transaction>2019.05.16 17:50:17.544,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\shell.c=</Transaction>
+    <Transaction>2019.05.16 17:53:59.180,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\shell.c</Transaction>
+    <Transaction>2019.05.16 17:53:59.821,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.c</Transaction>
+    <Transaction>2019.05.16 17:53:59.854,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3.h</Transaction>
+    <Transaction>2019.05.16 17:53:59.867,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\sqlite3ext.h</Transaction>
+    <Transaction>2019.05.16 18:08:37.422,=C:\Users\AKushnir\Desktop\memo backup.db</Transaction>
+    <Transaction>2019.05.16 18:09:06.126,C:\Users\AKushnir\Desktop\memo backup.db=</Transaction>
+    <Transaction>2019.05.16 18:09:36.315,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\shell.c=</Transaction>
+    <Transaction>2019.05.16 18:34:31.869,C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.db=</Transaction>
+    <Transaction>2019.05.16 18:34:37.343,=C:\Users\AKushnir\Desktop\МЭИ\УРИС\Курсач\Library.db</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FirstReport.cpp"/>
+    <File Path="FirstReport.cpp"/>
+    <File Path="FirstReport.dfm"/>
+    <File Path="FirstReport.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="ReaderReports.cpp"/>
+    <File Path="ReaderReports.cpp"/>
+    <File Path="ReaderReports.dfm"/>
+    <File Path="ReaderReports.h"/>
+    <File Path="StartWindow.cpp"/>
+    <File Path="StartWindow.cpp"/>
+    <File Path="StartWindow.dfm"/>
+    <File Path="StartWindow.h"/>
+    <File Path="VidachaKnig.cpp"/>
+    <File Path="VidachaKnig.cpp"/>
+    <File Path="VidachaKnig.dfm"/>
+    <File Path="VidachaKnig.h"/>
+    <File Path="sqlite3.c"/>
+    <File Path="sqlite3.h"/>
+    <File Path="sqlite3ext.h"/>
+    <File Path="Library.db"/>
+  </ProjectSortOrder>
+</BorlandProject>

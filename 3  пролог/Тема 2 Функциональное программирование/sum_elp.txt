@@ -1,0 +1,10 @@
+(DEFUN SUM_ELP(X)
+(COND ((NULL X) 0)
+(T
+(COND ((PLUSP (CAR X))
+(+ (CAR X) (SUM_ELP (CDR X)
+) ) )
+(T (SUM_ELP (CDR X)))
+)
+)
+))

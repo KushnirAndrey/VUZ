@@ -1,0 +1,16 @@
+DATABASE
+xpositive(symbol, symbol)
+xnegative(symbol, symbol)
+PREDICATES
+expertiza
+vopros(symbol, symbol)
+fish_is(symbol)
+positive(symbol, symbol)
+negative(symbol, symbol)
+remember(symbol, symbol, symbol)
+clear_facts
+GOAL
+expertiza.
+CLAUSES
+                                                                        
+Нетрудно

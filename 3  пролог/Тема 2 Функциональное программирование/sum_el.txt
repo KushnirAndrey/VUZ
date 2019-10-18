@@ -1,0 +1,5 @@
+(DEFUN SUM_EL(L)
+ (COND 
+   ((NULL L) 0)
+   (T (+ (CAR L) (SUM_EL (CDR L))))
+ )) 

@@ -1,0 +1,8 @@
+(DEFUN number_list(L)
+  (COND ((NULL L) NIL)
+      (T (COND
+       ((= (LENGTH L) 1) (NUMBERP (CAR L)))
+      (T (and (NUMBERP (CAR  L))
+               (number_list (CDR L)))
+         )
+       ))))

@@ -1,0 +1,53 @@
+        пуск:- assertz(xpositive(' ',' ')), assertz(xnegative(' ',' ')), 
+        nl,write(' * * * * * * * * * * * * * * * * * * * * *  '),
+        nl,write('          ДОБРО ПОЖАЛОВАТЬ!          '),
+        nl,write(' Проводится идентификация породы '),
+        nl,write(' Отвечайте, пожалуйста, yes или no '),
+        nl,write(' а вопросы о собаке, породу которой '),
+        nl,write(' Вы хотите определить '),
+        nl,write(' * * * * * * * * * * * * * * * * * * * * * * '), nl, expertiza.
+ expertiza :- dog_is(X), !, nl, write('Вероятно Ваша собака – '), write(X), write('.'), 
+                             nl,clear_facts.
+ expertiza :- nl, write('Извините, я не смогу помочь Вам!'), clear_facts. 
+vopros(X, Y):-write('вопрос – '),write(X),write(' '),
+write(Y),write('? (да/нет) '),read(R),remember(X,Y,R).
+positive(X,Y):-xpositive(X,Y),!.
+positive(X,Y):-not(negative(X,Y)),!,vopros(X,Y).
+negative(X,Y):-xnegative(X,Y),!.
+remember(X,Y,'да'):-assertz(xpositive(X,Y)).
+remember(X,Y,'нет'):-assertz(xnegative(X,Y)),fail.
+clear_facts:-retract(xpositive(_,_)),fail.
+clear_facts:-retract(xnegative(_,_)),fail.
+clear_facts.
+dog_is('Английский_Бульдог') :-positive('это','короткошерстная собака '),
+                             positive('ее','высота в холке не более  57 см'),
+                             positive('у нее','низко посаженный хвост'),
+                             positive('у нее','дружелюбный характер'),!. 
+dog_is('Гончая') :-positive('это','короткошерстная собака '),
+                             positive('ее','высота в холке не более  57 см'),
+                             positive('у нее','длинные уши'),
+                             positive('у нее','дружелюбный характер'),!. 
+dog_is('Немецкий Дог') :-positive('это','короткошерстная собака '),
+                             positive('у нее','низко посаженный хвост'),
+                             positive('у нее','дружелюбный характер'),
+                             positive('ее','вес более 45 кг'),!. 
+dog_is('Американский Фоксхаунд') :-positive('это','короткошерстная собака '),
+                             positive('ее','высота в холке не более  77 см'),
+                             positive('у нее','длинные уши'),
+                             positive('у нее','дружелюбный характер'),!. 
+dog_is('Кокер Спаниель') :-positive('это','длинношерстная собака '),
+                             positive('ее','высота в холке не более  57 см'),
+                             positive('у нее','низко посаженный хвост'),
+                             positive('у нее','длинные уши'),
+                             positive('у нее','дружелюбный характер'),!. 
+dog_is('Ирландский  Сеттер') :-positive('это','длинношерстная собака '),
+                             positive('ее','высота в холке не более  77 см'),
+                             positive('у нее','длинные уши'),!.
+dog_is('Колли') :- positive('это','длинношерстная собака '),
+                             positive('ее','высота в холке не более  77 см'),
+                             positive('у нее','низко посаженный хвост'),
+                             positive('у нее','дружелюбный характер'),!. 
+dog_is('Сенбернар') :- positive('это','длинношерстная собака '),
+                             positive('у нее','низко посаженный хвост'),
+                             positive('у нее','дружелюбный характер'),
+                             positive('ее','вес более 45 кг'),!.  

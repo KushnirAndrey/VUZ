@@ -1,0 +1,7 @@
+(DEFUN fn1(N)
+(COND 
+  ((< N 0) 'error)
+   (T (COND 
+        ((= N 1) 1)
+        (T (+ N (fn1 (- N 1))))
+       ))))

@@ -1,0 +1,8 @@
+(DEFUN integer_list(L)
+  (COND ((NULL L) NIL)
+        (T (COND
+       ((= (LENGTH L) 1) (INTEGERP (CAR L)))
+      (T (and (INTEGERP (CAR  L))
+               (integer_list (CDR L)))
+         )
+       ))))
